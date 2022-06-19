@@ -1,11 +1,9 @@
 ### You found me 👨🏻‍💻!
 Here's a little bit of a bio 🔬: 
-
 <br/>
 
 ### 💡 Interests/Expertise:
 [Cryptography](https://github.com/topics/cryptography) &middot; [Key Management](https://github.com/topics/key-management) &middot; [Security](https://github.com/topics/security) &middot; [Privacy](https://github.com/topics/privacy) &middot; [Java](https://github.com/topics/java) &middot; [PCI](https://github.com/topics/pci)/[PCI-DSS](https://github.com/topics/pci-dss) 
-
 <br/>
 
 ### 🏢 Work:
