@@ -1,5 +1,5 @@
 ### You found me!
-#### Here's a little bit of a bio 🔬: 
+Here's a little bit of a bio 🔬: 
 
 <br/>
 
