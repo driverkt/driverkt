@@ -8,21 +8,19 @@ Here's a little bit of a bio 🔬:
 
 ### 🏢 Work:
 
-- ✅ Currently:
-  - Working at [@oracle](https://github.com/oracle) ⭕️ on [@openjdk](https://github.com/openjdk) ☕️
+  - 🌟 Working at [@oracle](https://github.com/oracle) ⭕️ (2022-pres) on [@openjdk](https://github.com/openjdk) ☕️
 
-- ⏳ Previously (most recent at the top!):
-  - Worked for [@apple](https://github.com/apple)  on:
-    - Crypto Services 🔐
-    - [Pay](https://www.apple.com/apple-pay/) 💳
-    - [Point-of-Sale Security Architecture](https://www.apple.com/retail/) 📱
-  - Worked for [@ibm](https://github.com/IBM) 💙 (again) on:
-    - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide) 🔐
-    - [JCE FIPS](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-ibmjcefips-provider) 🔐
-    - [Key Protect for IBM Cloud](https://www.ibm.com/cloud/key-protect) ☁️
-  - Worked for [@paypal](https://github.com/paypal) 🅿️ on:
-    - Security Architecture 🔐
-  - Worked for [@ibm](https://github.com/IBM) 💙 on:
-    - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide) 🔐
-    - [JCE FIPS](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-ibmjcefips-provider) 🔐
-    - Other projects
+- ⏳ Worked for [@apple](https://github.com/apple)  (2018-2022) on:
+  - Crypto Services 🔐
+  - [Pay](https://www.apple.com/apple-pay/) 💳
+  - [Point-of-Sale Security Architecture](https://www.apple.com/retail/) 📱
+- ⏳ Worked for [@ibm](https://github.com/IBM) 💙 (2014-2018) on:
+  - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide) 🔐
+  - [JCE FIPS](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-ibmjcefips-provider) 🔐
+  - [Key Protect for IBM Cloud](https://www.ibm.com/cloud/key-protect) ☁️
+- ⏳ Worked for [@paypal](https://github.com/paypal) (2012-2014) 🅿️ on:
+  - Security Architecture 🔐
+- ⏳ Worked for [@ibm](https://github.com/IBM) 💙 (2003-2012) on:
+  - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide) 🔐
+  - [JCE FIPS](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-ibmjcefips-provider) 🔐
+  - Other projects
