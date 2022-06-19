@@ -16,7 +16,7 @@ Here's a little bit of a bio 🔬:
 - ⏳ Previously (most recent at the top!):
   - Worked for [@apple](https://github.com/apple)  on:
     - Crypto Services 🔐
-    - [Apple Pay](https://www.apple.com/apple-pay/) 💳
+    - [Pay](https://www.apple.com/apple-pay/) 💳
     - [Point-of-Sale Security Architecture](https://www.apple.com/retail/) 📱
   - Worked for [@ibm](https://github.com/IBM) 💙 (again) on:
     - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide) 🔐
