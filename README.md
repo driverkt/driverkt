@@ -8,19 +8,19 @@ Here's a little bit of a bio:
 
 ### 🏢 Work:
 
-  - (2022-pres) [@oracle](https://github.com/oracle), working on [@openjdk](https://github.com/openjdk) ☕️
+  - [2022-pres] [@oracle](https://github.com/oracle), working on [@openjdk](https://github.com/openjdk) ☕️
 
-- (2018-2022) [@apple](https://github.com/apple):
+- [2018-2022] [@apple](https://github.com/apple):
   - Crypto Services 
   - [Pay](https://www.apple.com/apple-pay/)
   - [Point-of-Sale Security Architecture](https://www.apple.com/retail/)
-- (2014-2018) [@ibm](https://github.com/IBM):
+- [2014-2018] [@ibm](https://github.com/IBM):
   - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide)
   - [JCE FIPS](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-ibmjcefips-provider)
   - [Key Protect for IBM Cloud](https://www.ibm.com/cloud/key-protect)
-- (2012-2014) [@paypal](https://github.com/paypal):
+- [2012-2014] [@paypal](https://github.com/paypal):
   - Security Architecture
-- (2003-2012) [@ibm](https://github.com/IBM):
+- [2003-2012] [@ibm](https://github.com/IBM):
   - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide)
   - [JCE FIPS](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-ibmjcefips-provider)
   - Other projects
