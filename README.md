@@ -26,7 +26,7 @@ Here's a little bit of a bio:
   - Other projects
 <br/>
 
-### 💡 Patents & Papers
+### 💡 Patents & Papers:
 
   - [US7499550B2](https://patents.google.com/patent/US7499550B2/)
   - [Natural Language Processing for First Order Logic Problems](https://scholar.google.com/scholar?cluster=12091462776057493925)
