@@ -12,7 +12,7 @@ Here's a little bit of a bio:
 
 - [2018-2022] [@apple](https://github.com/apple):
   - Crypto Services 
-  - [Pay](https://www.apple.com/apple-pay/)
+  - [-Pay](https://www.apple.com/apple-pay/)
   - [Point-of-Sale Security Architecture](https://www.apple.com/retail/)
 - [2014-2018] [@ibm](https://github.com/IBM):
   - [Java Security Components](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=security-guide)
