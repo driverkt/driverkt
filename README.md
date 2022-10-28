@@ -1,6 +1,6 @@
 ### You found me 👨🏻‍💻!
 Here's a little bit of a bio: 
-<br/>
+<br/><br/>
 
 ### 🧮 Interests & Expertise:
 
