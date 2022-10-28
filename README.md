@@ -3,12 +3,13 @@ Here's a little bit of a bio:
 <br/>
 
 ### 🧮 Interests & Expertise:
-[Cryptography](https://github.com/topics/cryptography) &middot; [Key Management](https://github.com/topics/key-management) &middot; [Security](https://github.com/topics/security) &middot; [Privacy](https://github.com/topics/privacy) &middot; [Java](https://github.com/topics/java) &middot; [PCI](https://github.com/topics/pci)/[PCI-DSS](https://github.com/topics/pci-dss) 
+
+- [Cryptography](https://github.com/topics/cryptography) &middot; [Key Management](https://github.com/topics/key-management) &middot; [Security](https://github.com/topics/security) &middot; [Privacy](https://github.com/topics/privacy) &middot; [Java](https://github.com/topics/java) &middot; [PCI](https://github.com/topics/pci)/[PCI-DSS](https://github.com/topics/pci-dss) 
 <br/>
 
 ### 🏢 Work:
 
-  - [2022-pres] [@oracle](https://github.com/oracle), working on [@openjdk](https://github.com/openjdk) ☕️
+- [2022-pres] [@oracle](https://github.com/oracle), working on [@openjdk](https://github.com/openjdk) ☕️
 
 - [2018-2022] [@apple](https://github.com/apple):
   - Crypto Services 
