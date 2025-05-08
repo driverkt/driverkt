@@ -29,5 +29,5 @@ Here's a little bit of a bio:
 
 ### 💡 Patents & Papers:
 
-  - [US7499550B2](https://patents.google.com/patent/US7499550B2/)
+  - [US7499550B2](https://patents.google.com/patent/US20050177740A1/)
   - [Natural Language Processing for First Order Logic Problems](https://scholar.google.com/scholar?cluster=12091462776057493925)
